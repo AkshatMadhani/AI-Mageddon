@@ -108,7 +108,7 @@ pip install numpy pandas matplotlib scikit-learn
 2️⃣ Run the notebook:
 
 ```bash
-jupyter notebook cyber_detect.ipynb
+colab notebook cyber_detect.ipynb
 ```
 
 3️⃣ Ensure `train.csv` and `testdata.csv` are present in the directory.
